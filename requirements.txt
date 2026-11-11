@@ -1,0 +1,5 @@
+streamlit
+anthropic
+duckdb
+pandas
+plotly
